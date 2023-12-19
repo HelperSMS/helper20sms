@@ -1,3 +1,4 @@
+[![Downloads](https://static.pepy.tech/badge/helper20sms)](https://pepy.tech/project/helper20sms)
 
 ## Quickstart
 1. Install package `pip install helper20sms`
@@ -56,10 +57,6 @@ def main(token):
 if __name__ == '__main__':
     main()
 ```
-
-## Other
-
-[![Downloads](https://static.pepy.tech/badge/helper20sms)](https://pepy.tech/project/helper20sms)
 
 ## License
 
