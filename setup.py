@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="helper20sms",
-    version="0.3.1",
+    version="0.3.2",
     url="https://github.com/HelperSMS/helper20sms",
     license="MIT License",
     author="HelperSMS",
@@ -17,7 +17,7 @@ setup(
     long_description=readme(),
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    install_requires=["aiohttp~=3.8.4", "typing~=3.7.4.3", "requests~=2.31.0"],
+    install_requires=["aiohttp~=3.9.1", "typing~=3.7.4.3", "requests~=2.31.0"],
     python_requires=">=3.9",
     project_urls={"Documentation": "https://api.helper20sms.ru/docs"},
 )
