@@ -1,0 +1,4 @@
+dist/**
+.pypirc
+build/**
+helper20sms.egg-info/**
