@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="helper20sms",
-    version="0.3.0",
+    version="0.3.1",
     url="https://github.com/HelperSMS/helper20sms",
     license="MIT License",
     author="HelperSMS",
